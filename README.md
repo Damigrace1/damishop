@@ -16,7 +16,10 @@ This is a sample mobile application built using **Flutter**. The app demonstrate
 
 | Home Page | Product Details | Cart Page |
 |-----------|------------------|-----------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Cart](screenshots/cart.png) |
+
+| ![Homepage](assets/screenshots/hompage.png) 
+| ![Details](assets/screenshots/product-details.png) 
+| ![Cartpage](assets/screenshots/cartpage.png) |
 
 
 
@@ -42,6 +45,6 @@ This is a sample mobile application built using **Flutter**. The app demonstrate
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/flutter-ecommerce-sample.git
-cd flutter-ecommerce-sample
+git clone https://github.com/Damigrace1/damishop.git
+cd main
 flutter pub get
